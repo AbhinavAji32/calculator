@@ -1,8 +1,3 @@
-# HTML Calculator Code
-
-Here's a complete HTML code for a functional calculator with basic operations (addition, subtraction, multiplication, division) and a clean interface:
-
-html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -150,4 +145,5 @@ html
     </script>
 </body>
 </html>
+
 
